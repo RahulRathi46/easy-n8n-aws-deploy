@@ -30,7 +30,7 @@ This repository provides an easy 1-click solution to deploy n8n on an AWS EC2 in
    Run the following command in your terminal to deploy n8n:
 
    ```bash 
-   curl -fsSL https://raw.githubusercontent.com/yourusername/your-repo/main/deploy_n8n.sh | bash
+   curl -fsSL https://raw.githubusercontent.com/RahulRathi46/easy-n8n-aws-deploy/main/deploy_n8n.sh | bash
    ```
    
 Follow any prompts to complete the deployment.
